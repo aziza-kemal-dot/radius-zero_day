@@ -22,6 +22,3 @@ I am learning full-stack web development at Radius Training Center.
 Radius Training Center
 
 Learn the Skill. Build the Proof.
-
-o
-
